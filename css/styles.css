@@ -5,6 +5,10 @@ body {
   align-items: center;
 }
 
+p {
+  text-transform: capitalize;
+}
+
 strong {
   background: #e3e3e3;
 }
